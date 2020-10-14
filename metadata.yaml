@@ -1,5 +1,8 @@
 _repo: Il-romanzo-della-morte_63272
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63272-h/images/cover.jpg
 creator:
   author:
     agent_name: Sperani, Bruno
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34271
     wikipedia: https://it.wikipedia.org/wiki/Beatrice_Speraz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63272#Il-romanzo-della-morte
 gutenberg_issued: '2020-09-23'
 gutenberg_type: Text
 identifiers:

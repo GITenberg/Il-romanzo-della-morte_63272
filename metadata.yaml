@@ -1,0 +1,28 @@
+_repo: Il-romanzo-della-morte_63272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sperani, Bruno
+    aliases:
+    - Speraz, Beatrice
+    - Speraz, Bice
+    birthdate: 1839
+    deathdate: 1923
+    gutenberg_agent_id: '34271'
+    url: http://www.gutenberg.org/2009/agents/34271
+    wikipedia: https://it.wikipedia.org/wiki/Beatrice_Speraz
+description: ''
+gutenberg_issued: '2020-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63272'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 19th century'
+- GITenberg
+title: Il romanzo della morte
+url: http://www.gutenberg.org/ebooks/63272
